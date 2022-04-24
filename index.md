@@ -97,8 +97,8 @@ Keep following us on social media:
 [Facebook Page](https://www.facebook.com/opentechcommunity)
 
 ## Main Events
-Closed camp: 6 June - 9 June, 2022
-Pitching: 11 June, 2022
+- Closed camp: 6 June - 9 June, 2022
+- Pitching: 11 June, 2022
 
 ## Contact Details
 **Nirab Pudasaini**\
