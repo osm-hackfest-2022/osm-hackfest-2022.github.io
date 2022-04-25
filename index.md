@@ -87,9 +87,10 @@ Any college which wants run this program must have the following:
 
 * Schedule with 2 hours time slot
 * A Projector
+* A sound system (can be a medium size speaker)
 * 20+ Students / Participants (computers are not mandatory)
 
-_Colleges must themselves arrange the venue_
+_Colleges must themselves arrange the venue._
 
 
 ## OSM Hackfest 2022: How to join?
