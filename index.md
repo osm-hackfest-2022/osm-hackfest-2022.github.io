@@ -61,7 +61,7 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
 
 ### Events
 
-* College Programs
+#### College Programs
 
     This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
 
@@ -71,7 +71,7 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
     * Q/A session
 
 
-* OSM Hackfest 
+#### Hackfest
 
     We plan to conduct OSM hackfest in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The tentative timeline for the event is as follows.
 
