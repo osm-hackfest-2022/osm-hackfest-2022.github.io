@@ -63,22 +63,22 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
 
 #### College Programs
 
-    This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
+This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
 
-    * Presentation
-    * Demo
-    * Discussion
-    * Q/A session
+* Presentation
+* Demo
+* Discussion
+* Q/A session
 
 
 #### Hackfest
 
-    We plan to conduct OSM hackfest in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The tentative timeline for the event is as follows.
+We plan to conduct OSM hackfest in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The tentative timeline for the event is as follows.
 
-    * April - May: team registration
-    * June 1st week: Closed camp where teams work with mentors to refine their ideas for a week
-    * June 2nd week: Selected team pitch their refined ideas to panel of judges
-    * September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
+* April - May: team registration
+* June 1st week: Closed camp where teams work with mentors to refine their ideas for a week
+* June 2nd week: Selected team pitch their refined ideas to panel of judges
+* September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 
 ## College Programs 2022 (From April 15 - May 15)
