@@ -81,7 +81,8 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
     * September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 
-## College Programs 2022 (Starting from April): What's required?
+## College Programs 2022 (From April 15 - May 15)
+### What's required?
 
 Any college which wants run this program must have the following:
 
