@@ -87,11 +87,11 @@ _Colleges must themselves arrange the venue._
 
 We plan to conduct events in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The timeline for the event is as follows.
 
-* May 1st - May 25th: team registration
-* June 1st : 12 selected teams for closed camp are announced
-* June 6th - June 9th : Closed camp where teams work with mentors to refine their ideas for a week
-* June 11th : Selected team pitch their refined ideas to panel of judges
-* September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
+* **May 1st - May 25th** : Team registration
+* **June 1st** : 12 selected teams for closed camp are announced
+* **June 6th - June 9th** : Closed camp where teams work with mentors to refine their ideas for a week
+* **June 11th** : Selected team pitch their refined ideas to panel of judges
+* **September** : The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 #### How to register your team and ideas?
 We will open the team registrations on May 1st, keep following us on social media for updates regarding the events:
