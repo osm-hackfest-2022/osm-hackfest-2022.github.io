@@ -1,4 +1,4 @@
-# OSM Hackfest 2022, Nepal
+# OSM Hackfest 2022
 
 ## About
 
@@ -59,9 +59,8 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
 * Engage college clubs in community activities. (IT, Robotics, Open Source, etc.)
 * Create learning opportunities for students.
 
-### Events
 
-#### College Programs
+### College Programs 2022 (From April 15 - May 15)
 
 This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
 
@@ -70,21 +69,9 @@ This will be an Introductory program on FOSS, Open Data and OSM. This could be o
 * Discussion
 * Q/A session
 
-
-#### Hackfest
-
-We plan to conduct OSM hackfest in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The tentative timeline for the event is as follows.
-
-* April - May: team registration
-* June 1st week: Closed camp where teams work with mentors to refine their ideas for a week
-* June 2nd week: Selected team pitch their refined ideas to panel of judges
-* September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
-
-
-## College Programs 2022 (From April 15 - May 15)
 This program will allow student to get brief idea of open technologies. Experts on Open Data, OpenStreetMap & Free and Open Source Software will present about the topics to student for 2 hours.
 
-### What's required?
+#### What's required for College programs?
 
 Any college which wants run this program must have the following:
 
@@ -96,13 +83,19 @@ Any college which wants run this program must have the following:
 _Colleges must themselves arrange the venue._
 
 
-## OSM Hackfest 2022: How to join?
-Keep following us on social media:
-[Facebook Page](https://www.facebook.com/opentechcommunity)
+### Closed Camp and Idea Pitching
 
-## Main Events
-- Closed Camp: 6 June - 9 June, 2022
-- Pitching: 11 June, 2022
+We plan to conduct events in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The timeline for the event is as follows.
+
+* May 1st - May 25th: team registration
+* June 1st : 12 selected teams for closed camp are announced
+* June 6th - June 9th : Closed camp where teams work with mentors to refine their ideas for a week
+* June 11th : Selected team pitch their refined ideas to panel of judges
+* September: The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
+
+#### How to register your team and ideas?
+We will open the team registrations on May 1st, keep following us on social media for updates regarding the events:
+[Facebook Page](https://www.facebook.com/opentechcommunity)
 
 ## Contact Details
 **Nirab Pudasaini**\
