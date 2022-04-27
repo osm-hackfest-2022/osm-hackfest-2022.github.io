@@ -1,4 +1,4 @@
-# Open Tech College Programs & OSM Hackfest 2022, Nepal
+# OSM Hackfest 2022, Nepal
 
 ## About
 
