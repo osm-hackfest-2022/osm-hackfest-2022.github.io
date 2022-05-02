@@ -114,5 +114,6 @@ contact@gautamarjun.com.np\
 **Nikesh Balami**\
 Chief Executive Officer\
 Open Knowledge Nepal\
-nikeshbalami@oknp.org
-
+nikeshbalami@oknp.org\
+\
+You can also message us in our social media page: [Facebook Page](https://www.facebook.com/opentechcommunity)
