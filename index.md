@@ -94,7 +94,9 @@ We plan to conduct events in June as a follow up opportunity for interested stud
 * **September** : The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 #### How to register your team and ideas?
-We will open the team registrations on May 1st, keep following us on social media for updates regarding the events:
+Registration is opened: [Register your idea and team](https://forms.gle/SBXDQoTqN5xVTzFSA)
+
+Keep yourself updated by following us on our social media page:
 [Facebook Page](https://www.facebook.com/opentechcommunity)
 
 ## Contact Details
