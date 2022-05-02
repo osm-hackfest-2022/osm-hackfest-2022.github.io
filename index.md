@@ -95,7 +95,7 @@ We plan to conduct events in June as a follow up opportunity for interested stud
 
 #### How to register your team and ideas?
 Registration is open: [Register your idea and team](https://forms.gle/SBXDQoTqN5xVTzFSA).\
-Registration will be closed on May 25, 2022
+Registration will be closed after May 25, 2022
 
 Keep yourself updated by following us on our social media page:
 [Facebook Page](https://www.facebook.com/opentechcommunity)
