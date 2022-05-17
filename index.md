@@ -60,7 +60,7 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
 * Create learning opportunities for students.
 
 
-### College Programs 2022 (From April 15 - May 15)
+### College Programs 2022 (From April 15 - June 5)
 
 This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
 
@@ -87,15 +87,15 @@ _Colleges must themselves arrange the venue._
 
 We plan to conduct events in June as a follow up opportunity for interested students to deepen their knowledge and further engage with open technologies. Students from different colleges can form teams to register for the event. The timeline for the event is as follows.
 
-* **May 1st - May 25th** : Team registration
-* **June 1st** : 12 selected teams for closed camp are announced
-* **June 6th - June 9th** : Closed camp where teams work with mentors to refine their ideas for a week
-* **June 11th** : Selected team pitch their refined ideas to panel of judges
+* **May 1st - June 10th** : Team registration
+* **June 15th** : 12 selected teams for closed camp are announced
+* **June 20th - June 23th** : Closed camp where teams work with mentors to refine their ideas
+* **June 24th** : Selected team pitch their refined ideas to panel of judges
 * **September** : The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 #### How to register your team and ideas?
 Registration is open: [Register your idea and team](https://forms.gle/SBXDQoTqN5xVTzFSA).\
-Registration will be closed after May 25, 2022
+Registration will be closed after June 10, 2022
 
 Keep yourself updated by following us on our social media page:
 [Facebook Page](https://www.facebook.com/opentechcommunity)
