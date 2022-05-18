@@ -89,8 +89,8 @@ We plan to conduct events in June as a follow up opportunity for interested stud
 
 * **May 15th - June 10th** : Team registration
 * **June 15th** : 12 selected teams for closed camp are announced
-* **June 20th - June 24th** : Closed camp where teams work with mentors to refine their ideas for a week
-* **June 25th** : Selected team pitch their refined ideas to panel of judges
+* **June 20th - June 23th** : Closed camp where teams work with mentors to refine their ideas for a week
+* **June 24th** : Selected team pitch their refined ideas to panel of judges
 * **September** : The winning team is sponsored to present their idea in the regional, State of the Map - Asia conference. 
 
 #### How to register your team and ideas?
