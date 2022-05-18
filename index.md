@@ -60,7 +60,7 @@ Open Knowledge Nepal is a non-profit civic tech organisation composed of opennes
 * Create learning opportunities for students.
 
 
-### College Programs 2022 (From April 15 - May 15)
+### College Programs 2022 (From April 15 - May 31)
 
 This will be an Introductory program on FOSS, Open Data and OSM. This could be open to participants from all semesters. This will contain:
 
