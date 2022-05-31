@@ -130,7 +130,6 @@ Keep yourself updated by following us on our social media page:
 
 ## Contact Details
 **Nirab Pudasaini**\
-Open Tech and Innovation Specialist\
 Open Mapping Hub - Asia Pacific\
 nirab.pudasaini@hotosm.org\
 \
@@ -139,7 +138,6 @@ Open Tech Community\
 contact@gautamarjun.com.np\
 \
 **Nikesh Balami**\
-Chief Executive Officer\
 Open Knowledge Nepal\
 nikeshbalami@oknp.org\
 \
