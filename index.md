@@ -100,24 +100,6 @@ Registration will be closed after June 10, 2022
 Keep yourself updated by following us on our social media page:
 [Facebook Page](https://www.facebook.com/opentechcommunity)
 
-## Contact Details
-**Nirab Pudasaini**\
-Open Tech and Innovation Specialist\
-Open Mapping Hub - Asia Pacific\
-nirab.pudasaini@hotosm.org\
-\
-**Arjun Gautam**\
-Community Mobilizer\
-FOSS Community\
-contact@gautamarjun.com.np\
-\
-**Nikesh Balami**\
-Chief Executive Officer\
-Open Knowledge Nepal\
-nikeshbalami@oknp.org\
-\
-You can also message us in our social media page: [Facebook Page](https://www.facebook.com/opentechcommunity)
-
 ## Participating Colleges
 * Academia International College
 * Amrit Campus
@@ -145,3 +127,23 @@ You can also message us in our social media page: [Facebook Page](https://www.fa
 * Nepal Open Source Klub (NOSK)
 * Open Source ASCOL Circle (OSAC)
 * Padma Kanya IT Club (PK IT Club)
+
+## Contact Details
+**Nirab Pudasaini**\
+Open Tech and Innovation Specialist\
+Open Mapping Hub - Asia Pacific\
+nirab.pudasaini@hotosm.org\
+\
+**Arjun Gautam**\
+Community Mobilizer\
+FOSS Community\
+contact@gautamarjun.com.np\
+\
+**Nikesh Balami**\
+Chief Executive Officer\
+Open Knowledge Nepal\
+nikeshbalami@oknp.org\
+\
+You can also message us in our social media page: [Facebook Page](https://www.facebook.com/opentechcommunity)
+
+
