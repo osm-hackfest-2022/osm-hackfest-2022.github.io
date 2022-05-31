@@ -135,8 +135,7 @@ Open Mapping Hub - Asia Pacific\
 nirab.pudasaini@hotosm.org\
 \
 **Arjun Gautam**\
-Community Mobilizer\
-FOSS Community\
+Open Tech Community\
 contact@gautamarjun.com.np\
 \
 **Nikesh Balami**\
