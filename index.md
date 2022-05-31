@@ -1,4 +1,6 @@
 # OSM Hackfest 2022
+Registration is open: [Register your idea and team](https://forms.gle/SBXDQoTqN5xVTzFSA).\
+Registration will be closed after June 10, 2022
 
 ## About
 
