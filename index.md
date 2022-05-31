@@ -117,3 +117,31 @@ Open Knowledge Nepal\
 nikeshbalami@oknp.org\
 \
 You can also message us in our social media page: [Facebook Page](https://www.facebook.com/opentechcommunity)
+
+## Participating Colleges
+* Academia International College
+* Amrit Campus
+* Apex College
+* Bhaktapur Multiple Campus
+* Birendra Multiple Campus
+* Butwal Multiple Campus
+* Samarpan Academy, ICMS
+* Kathford International College of Engineering and Management
+* Kathmandu University
+* Kathmandu Engineering College
+* Paschimanchal Campus
+* Nepal College of Information Technology
+* Padma Kanya Multiple Campus
+* Prithvi Narayan Campus
+* Sagarmatha Engineering College
+* Samriddhi College
+
+## Supporting Student Clubs
+* Innovative Computer Engineering Students' Society (i-CES)
+* Institure of Crisis Management Studies YouthMappers (ICMS YouthMappers)
+* Kathmandu Engineering College IT Club (KEC IT Club)
+* Kathmandu University Computer Club (KUCC)
+* Kathmandu University Open Source Community (KUOSC)
+* Nepal Open Source Klub (NOSK)
+* Open Source ASCOL Circle (OSAC)
+* Padma Kanya IT Club (PK IT Club)
