@@ -129,6 +129,7 @@ Keep yourself updated by following us on our social media page:
 * Nepal Open Source Klub (NOSK)
 * Open Source ASCOL Circle (OSAC)
 * Padma Kanya IT Club (PK IT Club)
+* Computer Engineering Society in Sagarmatha (COESIS)
 
 ## Contact Details
 **Nirab Pudasaini**\
